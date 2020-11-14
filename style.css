@@ -1,21 +1,27 @@
 .block1{
    background-color: grey;
+   border: 1px black solid;
 }
 .nav1{
     background-color: black;
     color: white;
+    border: 1px black solid;
 }
 .block2{
    background-color: grey;
+   border: 1px black solid;
 }
 .nav2{
     background-color: black;
     color: white;
+    border: 1px black solid;
 }
 .block3{
    background-color: grey;
+   border: 1px black solid;
 }
-.nav4{
+.nav3{
     background-color: black;
     color: white;
+    border: 1px black solid;
 }
